@@ -5,7 +5,7 @@ This project was created to practise object-oriented programming, game state man
 
 ## Features
 - Two-player turn-based gameplay
-- Dynamic board display using a 3x3 grid
+- Board display using a 3x3 grid
 - Win detection for rows, columns and diagonals
 - Draw detection when the board is full
 - Input validation to prevent players selecting occupied spaces
